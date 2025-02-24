@@ -1,0 +1,248 @@
+JavaScript:
+
+
+Today's Update: 12/02/2025 
+JavaScript :
+
+1) Datatypes in JS 
+  a)Primitive Datatype (Number,string,undifined,Boolean,null)
+  b)Non Primitive Datatypes (Objects,Arrays)
+2) Variables.
+  a) let
+  b) const
+  c) var
+3) Looping
+  a) For loop
+  b) For each loop
+  c) For of loop
+  d) For in loop
+  e) While loop
+4)Types of functions
+  a) Higher Order functions
+  b) Arrow functions
+5) Conditional Statements : 
+  a) if, else if, else
+  b) switch statement
+
+----------------------------------------------------------------------------------
+
+Today's Update: 13/02/2025 
+
+Topics:
+event loop
+string methods, 
+Join, sort methods
+arrays methods (splice, shift), map, reduce, filter
+Objects, its methods (types of getting data, optimize way?), prototype
+promise, promise all, ++
+then-catch, async await
+shallow copy, deep copy, jsonify, parse, 
+Code Optimization, Best Practices?
+memory leaks (heap, stack)
+Default Variables
+Keywords (name) (should not be used for variable name)
+ES6 Features
+try catch, cache memory, memoization, parallel execution, 
+Understanding which method/function to use when.
+
+
+Today's Update: 13/02/2025 
+JavaScript :
+
+1. Operators
+  a) Unary
+  b) Void Operator
+
+2. Literals
+  a) Array Literals 
+  b) Boolean Literals
+  c) Numeric Literals
+  d) Integer literals
+
+3. Data Types:
+  a) Primitive Data Types (Symbol, BigInt)
+
+
+
+
+References: 
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#array_literals
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+Today's Update: 14/02/2025 
+JavaScript :
+
+1. Array Methods
+  a) splice
+  b) slice 
+  c) length
+  d) some
+  e) every
+  f) concat
+  g) forEach
+  h) indexOf
+  i) pop
+  j) push
+
+2. Objects 
+  a) Syntax
+    i. Object constructor
+    ii. Object Literals
+  b) Property value shorthand
+  c) Property names limitations
+  d) Object Destructuring
+  e) Shallow Copy and Deep Copy
+  f) Object Methods 
+    i. assign
+    ii.  create
+    iii. entries
+    iv.  keys
+    v.   values
+
+
+References:
+1. https://www.geeksforgeeks.org/javascript-array-splice-method/?ref=lbp
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Today's Update: 17/02/2025
+JavaScript:
+
+1) Fetch API -
+   a. with IIFE
+   b. async and await
+2)Window Time Event: 
+  a. SetTimeout() 
+  b. SetInterval() 
+  a. ClearTimeout() 
+3) Promises 
+  a. Promise.all()
+  b. Promise.any()
+4) try catch block
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+Today's Update: 18/02/2025
+Java Script:
+1) Stack memory and Heap Memory
+2) class ,constructor, obj
+3) Node js:
+   a) Intro to Node js
+   b) Package Manager - npm, npx, yarn
+   c) nodemon
+   d) type - commonjs, module
+   e) axios 
+      i.  get - axios.get, within async 
+      ii. post 
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Today's Update: 19/02/2025
+Java Script:
+
+1) Package Version 
+	- major
+	- minor
+	- patch
+	- difference between tilde(~) and caret(^) in package.json
+
+2) nodemon 
+	-- delay
+	-- watch
+	-- ignore
+
+3) axios
+  - promise.all 
+  - promise.allsettled 
+  - promise.race
+  - promise.any
+  - race vs any
+  - with try catch block
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Today's Update: 20/02/2025
+Java Script:
+
+1) What is Modules 
+	- Creating and importing Modules
+  - Global installation, Local installation
+
+2) Nodemon with multi file
+
+3) Event Loop
+  - Task Queue
+  - Microtask
+  - Call Stack
+  - Global execution context
+
+4) Event Driven and blocking and non-blocking Nature of JS
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Today's Update: 21/02/2025
+
+1) File operations with 'fs' library
+  - readFile, readFileSync
+  - writeFile, writeFileSync
+  - unlink, unlinkSync
+  - exists, existSync
+2) Workflow of Git
+  - git init  
+  - git add fileName or .
+  - git commit -m
+2) JS code execution - memory allocation and code execution
+3) HTTP response status codes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------
+Data Types:
+1.Primitive Data Types (String, Number, Boolean, Null, Undefined, Symbol, BigInt)
+2.Non-Primitive Data Types (Objects, Arrays, Functions)
+Variables
+1.Declaration & Initialization
+2.Scope of Variables
+
+Functions in JavaScript:
+1.Function Declaration vs Function Expression
+2.Arrow Functions
+3.Callback Functions
+4.Higher-Order Functions
+5.Immediately Invoked Function Expressions (IIFE)

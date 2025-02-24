@@ -1,0 +1,181 @@
+Date: 17-02-2025:
+JavaScript
+
+set- 
+	timeout
+	interval	
+	immediate
+	
+process.nextTick
+
+objects methods
+constructor
+s
+array methods
+string methods
+
+io operations
+
+threading
+
+heap and stack memory
+
+class 
+	obj with new keyword
+	compare objs 
+	
+promise all allsettled
+
+then catch
+
+array sort asc desc
+sort(a+b) a-b
+
+prototypes sortArray
+reverse
+concat
+shift
+unshift
+ push
+ pop
+ 
+ substring
+ 
+ axios fetch Jsonplaceholder website
+ 
+ newDatae methods
+ toISOString gmt DataString localestring
+ 
+ moment
+ dayjs
+ package
+ 
+
+
+
+
+async await individual
+
+event driven - node js
+non blocking archtiecture
+
+controller 
+service file
+repo
+dtos
+
+ts js build
+
+try catch
+
+cluster
+child, workers, threads 
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Date: 18-02-2025:
+JavaScript, Nodejs
+
+-- watch
+nodemon
+axios
+
+node js commands to interact with node js server.
+linux commands
+mkdir, rm, chmod
+
+rate limit
+
+node js
+webhook
+
+synchronous, parallel execution, 
+
+
+Node JS Roadmap link:
+https://roadmap.sh/nodejs
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+19/02/2025
+
+code execution, execution context, memory allocation
+heap and stack
+promise.all and promise.allsettled with axios
+try catch with throw error
+
+versioning 
+	- major
+	- minor
+	- patch
+	- difference between tilde(~) and caret(^) in package.json
+nodemon 
+	-- delay
+	-- watch
+	-- ignore
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+20/02/2025
+
+express js, package.json 
+folder structure, flow:- server.js - routes - controller - service(logic, db, 3rd party)
+status codes - 404, 200, ok, unauthorized
+const, enum (dont use hard code values)
+
+typescript - interface, type
+
+database - orm
+sequelize, typeorm, prisma
+redis
+
+jwt, de**
+load balancer
+
+Env, prisma->migrations->tables
+schema
+src->server.js->
+app.js->
+cors is packages
+bodyparser
+express
+aws
+lambda fun
+grapql
+microservices   boolean que 
+src    middleware     (authontication)
+router
+Ajv lib
+validiter
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+21/02/2025
+
+satus code error
+401,403 ++++
+500
+
+git 
+stash vs stage
+
+epic story task subtask, tickets, sprints
+jira
+
+how to send payload more than 10 mb
+
+turboconsole - vsCode
+eslint
+
+
+

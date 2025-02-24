@@ -1,0 +1,30 @@
+Given the following array of project records, use the reduce method to categorize the projects into three
+arrays based on their status: CompletedProjects, InProgressProjects, and RegisteredProjects.
+
+Question 1: Use the map method to create a new array containing the names of all projects.
+Question 2: Use the filter method to get a list of projects with the status "Registered".
+Question 3 :Use the reduce method to count how many projects have the priority "High".
+Question 4: Use the forEach method to log the reason for each project
+Question 5: Use a for...of loop to log the names and start dates of all projects.
+Question 6: Use a for...in loop to log all keys and values for the first project's details object.
+Question 7: Use Object.keys and map to create an array of all keys in the details object of the first project.
+Question 8: Access and log the endDate of the project with _id "66adc1025a55a526d5658240".
+Question 9: Use map to create an array of objects where each object contains the project's name and
+reason from the details object.
+Question 10: Filter the projects that are "In Progress" and then use map to create an array of their names.
+Question 11: Use the map method to create an array of project names and their corresponding priority.
+Question 12: Filter the projects where the division in details is "Engineering" and list their names.
+Question 13: Use the reduce method to calculate the total number of days for all projects. Assume the
+startDate and endDate are in ISO 8601 format.
+Question 14: Use forEach to count the number of projects for each priority level (High, Medium). Log the
+count for each priority.
+Question 15: Use a for...of loop to log the location and status of each project.
+Question 16: Use a for...in loop to log all the values within the schedule object of the first project.
+Question 17: Use Object.keys and filter to create an array of keys from the details object that have the
+value "Remote".
+Question 18: Use map and Object.keys to create an array of objects where each object contains the
+project.name and an array of details keys.
+Question 20: Find the project with the _id "66adc1025a55a526d5658243" and log its reason from the
+details object if the status is "In Progress".
+Question 21: Filter out projects with the priority "High", then map their name and endDate, and finally
+use reduce to concatenate their names into a single string.
